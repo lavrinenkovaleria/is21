@@ -15,3 +15,4 @@ markdown
 4. Запустить: `python main.py`
 
 ## Пример работы
+[![.github/workflows/main.yml](https://github.com/lavrinenkovaleria/is21/actions/workflows/main.yml/badge.svg)](https://github.com/lavrinenkovaleria/is21/actions/workflows/main.yml)
